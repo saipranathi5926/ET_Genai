@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import { Layout, Compass, Video, TrendingUp, Languages, User, Search, Bell, Menu, Loader2, Sparkles, ChevronDown, PlayCircle, MessageSquare, Clock, Globe, Lock } from 'lucide-react';
+import { useState, useEffect } from 'react';
+import { Compass, Video, TrendingUp, Languages, User, Search, Bell, Menu, Loader2, Sparkles, ChevronDown, PlayCircle, MessageSquare, Globe, Lock } from 'lucide-react';
 import { fetchRealNews, profiles, UserProfile } from './data';
 import { ProcessedArticle, runAgentPipeline } from './agent';
 
