@@ -82,9 +82,6 @@ function App() {
           
           <div className="text-center mb-6">
             <h2 className="text-[22px] font-bold text-gray-900 mb-4 font-serif">Login to your account</h2>
-            <p className="text-gray-600 text-[15px]">
-              Don't have an account ? <span className="font-medium cursor-pointer hover:underline text-gray-900 underline underline-offset-4 decoration-1 font-serif">Sign up</span>
-            </p>
           </div>
           
           <div className="flex items-center justify-center gap-4 mb-8">
